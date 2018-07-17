@@ -1,5 +1,5 @@
 def introduction(name)
-  name = "Dan"
+  name = "Josh"
   puts "Hi, my name is #{name}."
 end
 
